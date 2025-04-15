@@ -5,14 +5,14 @@ CS 2500 – Python and SQLite Project
 A command-line social media application built in Python that allows users to:
 
 - Log in with a username and password  
-- View and edit their profile info  
+- View and edit their profile information  
 - Create and view posts  
 - Follow other users
 
 All data is stored using an SQLite database.
 
 #### Skills Developed
-- Connecting to a SQL database and querying it using Python
+- Connecting to a SQLite database and querying it using Python
 - Implementing user authentication with input validation and error handling
 
 ## 📂 Files
