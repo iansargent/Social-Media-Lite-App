@@ -1,7 +1,7 @@
 # Social Media Lite
 CS 2500 – Python and SQLite Project
 
-## 📝 Description
+## Description
 A command-line social media application built in Python that allows users to:
 
 - Log in with a username and password  
@@ -15,7 +15,7 @@ All data is stored using an SQLite database.
 - Connecting to a SQLite database and querying it using Python
 - Implementing user authentication with input validation and error handling
 
-## 📂 Files
+## Files
 #### Python Scripts
 - **csv_to_sqlite.py** – A script that uploads the three provided CSV files into a created database file ('social_media.db')
 - **birth_dates.py** – A script that adds a date of birth column into a table in the previously created database
@@ -26,7 +26,7 @@ All data is stored using an SQLite database.
 - **posts.csv** — Stores each post along with the user ID of the person who posted it
 - **followers.csv** — Lists user relationships by pairing each user with their followers' IDs
 
-## 💾 Dependencies
+## Dependencies
 - *pwinput* module  
   ```bash
   pip install pwinput
